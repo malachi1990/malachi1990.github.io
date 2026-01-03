@@ -1,1 +1,11 @@
-remote_theme: chrisrhymes/bulma-clean-theme
+# Remote Setting
+baseurl: ""
+# url: ""
+
+# Theme
+# theme: "just-the-docs"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+
+heading_anchors: false
+markdown: kramdown
