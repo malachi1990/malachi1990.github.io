@@ -1,9 +1,9 @@
 ---
 layout: default
-title: January 3, 2026 Musings
+title: January 3 Musings
 nav_order: 1
-parent: January Musings
-grand_parent: 2026
+parent: January 2026 Musings
+grand_parent: Mal's 2026 Musings
 ---
 
 ## Musing 1 (out of hopefully 300)

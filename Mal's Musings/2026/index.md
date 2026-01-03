@@ -3,6 +3,7 @@ layout: default
 title: Mal's 2026 Musings
 nav_order: 1
 has_children: true
+parent : Mal's Musings
 ---
 
 One of my goals for the year is to write and publish something for 300 days
