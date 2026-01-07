@@ -20,11 +20,11 @@ from the other angle and talk about what's probably an uncomfortable truth - mos
 that deep.
 
 A lot of business domains ultimately boil down to some form of "take in data, store it, transform it to a more usable 
-format, then return to user". And most people, when writing new apps, are not breaking new ground. 
+format, then return to user". And when writing these apps, most people are not breaking new ground. 
 
 To be clear, there's nothing wrong with that. Often times, people want "some already existing app, but it does X", 
 whether that X is technical (like the "rewrite this tool in Rust" craze that is currently ongoing) or 
-some other real world constraint that perhaps justify rolling your own tool. 
+some other real world constraint that perhaps justify rolling your own tool.  
 
 But what's the end result - so often these tools get added to Github or some other code hosting service . .. 
 and fed into AI. Which now has another example to build yet another iteration of "existing app but X". 
