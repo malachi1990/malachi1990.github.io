@@ -97,3 +97,6 @@ causing testing to almost always bottleneck on pulling back data), but that's fo
 These things I've mentioned the last couple days *primarily* apply to the world of Java web apps. But I'm sure there are 
 corollary things (especially since many languages have to have some database interactivity) in other languages.
 
+I hope these listings are helpful to whomever may read them, and I may find myself making a dictionary of bad coding
+patterns at some point because I do like thinking through software performance problems.
+
