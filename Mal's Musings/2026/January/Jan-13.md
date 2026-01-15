@@ -6,7 +6,6 @@ parent: January 2026 Musings
 grand_parent: Mal's 2026 Musings
 ---
 
-
 ## Musing 9
 
 As I re-read Ryle's Practical Religion, I am reminded about the saying "the ink still smudges", meaning that though 
