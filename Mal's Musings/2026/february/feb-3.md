@@ -2,7 +2,7 @@
 layout: default
 title: February 3 Musings
 nav_order: 23
-parent: January 2026 Musings
+parent: February 2026 Musings
 grand_parent: Mal's 2026 Musings
 ---
 
