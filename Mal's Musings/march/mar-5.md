@@ -6,7 +6,7 @@ parent: March 2026 Musings
 grand_parent: Mal's 2026 Musings
 ---
 
-## Musing 45
+## Musing 46
 
 Prepping for a book study I'm leading on Ryle's Practical Religion, so nothing in depth today. I highly recommend
 this book to your reading though!
