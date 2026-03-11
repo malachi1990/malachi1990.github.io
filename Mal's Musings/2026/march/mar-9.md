@@ -6,7 +6,7 @@ parent: March 2026 Musings
 grand_parent: Mal's 2026 Musings
 ---
 
-## Musing 50
+## Musing 49
 
 Pain sucks, especially back and lung pain. Both at the same time would probably cost my sanity.
 
