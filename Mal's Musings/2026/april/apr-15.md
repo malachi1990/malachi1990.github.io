@@ -46,7 +46,7 @@ brings *death* because no one can perfectly keep the law and so bring upon thems
 Because the Law brought death to Paul, Paul in turn recognizes that the old man is dead and the true believer now lives through
 Christ. 
 
-And with the final sentence Paul's argument here should still us = If righteousness comes through the law, then Christ died for no purpose.
+And with the final sentence Paul's argument here should chill us - if righteousness comes through the law, then Christ died for no purpose.
 
 We would do well to remember this - if there's another way to God, no matter how "good" it is, then Christ's death was meaningless. 
 
