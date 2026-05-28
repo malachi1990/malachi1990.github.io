@@ -1,7 +1,7 @@
 ---
 layout: default
 title: May 26 Musings
-nav_order: 115
+nav_order: 116
 parent: May 2026 Musings
 grand_parent: Mal's 2026 Musings
 ---
