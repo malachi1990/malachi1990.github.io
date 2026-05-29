@@ -1,12 +1,12 @@
 ---
 layout: default
 title: May 27 Musings
-nav_order: 117
+nav_order: 116
 parent: May 2026 Musings
 grand_parent: Mal's 2026 Musings
 ---
 
-## Musing 117
+## Musing 116
 
 As noted previously, life is busy, and I'm focusing on the other projects.
 
