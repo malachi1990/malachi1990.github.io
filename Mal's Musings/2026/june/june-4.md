@@ -1,3 +1,4 @@
+---
 layout: default
 title: June 4 Musings
 nav_order: 123
