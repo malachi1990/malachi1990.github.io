@@ -2,7 +2,7 @@
 layout: default
 title: July 8 Musings
 nav_order: 151
-parent: June 2026 Musings
+parent: July 2026 Musings
 grand_parent: Mal's 2026 Musings
 ---
 
