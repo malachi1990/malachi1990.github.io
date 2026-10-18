@@ -1,7 +1,7 @@
 ---
 layout: default
 title: October 16 Musings
-nav_order: 231=2
+nav_order: 232
 parent: October 2026 Musings
 grand_parent: Mal's 2026 Musings
 ---
