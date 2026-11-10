@@ -1,6 +1,6 @@
 ---
 layout: default
-title: November 5 Musings
+title: November 6 Musings
 nav_order: 252
 parent: November 2026 Musings
 grand_parent: Mal's 2026 Musings
